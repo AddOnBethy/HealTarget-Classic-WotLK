@@ -8,7 +8,7 @@ Credits: Oddbjorg (testing)
 
 !!WORKS ONLY WITH DEFAULT CAST BAR!!
 
-![alt text](https://github.com/AddOnBethy/HealTarget-3.3.5/blob/main/example1.png?raw=true)
+![Example 1](https://github.com/AddOnBethy/HealTarget-3.3.5/blob/main/example1.png?raw=true) ![Example 2](https://github.com/AddOnBethy/HealTarget-3.3.5/blob/main/example2.png?raw=true)
 
 ## Installation
 
