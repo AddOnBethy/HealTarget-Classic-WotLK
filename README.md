@@ -8,6 +8,8 @@ Credits: Oddbjorg (testing)
 
 !!WORKS ONLY WITH DEFAULT CAST BAR!!
 
+![alt text](http://url/to/img.png)https://github.com/AddOnBethy/HealTarget-3.3.5/blob/main/example1.png?raw=true)
+
 ## Installation
 
 Extract the folder called HealTarget into Classic\Interface\AddOns. Run the game. Enable AddOn in the in-game AddOn menu. (Should be enabled by default for first-time installers.)
