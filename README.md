@@ -20,4 +20,4 @@ Whenever you cast a healing spell with a cast time greater than 0, the default c
 
 ## Known bugs
 
- -- Unfortunately, there's no way to 100 % accurately get the target of your spell, which leads to wrong information whenever player switches targets right after casting a healing spell. There's really no fix for this (at least none that are known to me), so be warned.  
+ -- Unfortunately, there's no way to 100 % accurately get the target of your spell, which leads to wrong information whenever player switches targets right after starting a cast. There's really no fix for this (at least none that are known to me), so be warned.  
